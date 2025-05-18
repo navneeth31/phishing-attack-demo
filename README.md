@@ -1,4 +1,4 @@
-***ZPhishier – Social Media Phishing Simulator***
+***ZPhishier – Social Media Phishing Simulaton***
 
 -----
 **Summary**
