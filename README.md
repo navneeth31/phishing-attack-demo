@@ -90,3 +90,4 @@ Bash ./zphisher.sh
 -----
 **Demo Video**
 
+https://github.com/user-attachments/assets/7b804e7e-9830-44f3-9ede-d5ff5526c83f
