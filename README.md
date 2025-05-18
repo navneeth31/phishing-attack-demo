@@ -84,10 +84,6 @@ Bash ./zphisher.sh
 1. **User Training**
    1. Regular phishing awareness programs with simulated tests [CISA](https://www.cisa.gov/secure-our-world/teach-employees-avoid-phishing?utm_source=chatgpt.com)[CybeReady](https://cybeready.com/phishing-awareness-training/phishing-prevention-best-practices?utm_source=chatgpt.com).
    1. Teach employees to verify links and check sender domains before interacting [Microsoft Support](https://support.microsoft.com/en-us/windows/protect-yourself-from-phishing-0c7ea947-ba98-3bd9-7184-430e1f860a44?utm_source=chatgpt.com).
-1. **Technical Controls**
-   1. Enforce email authentication: SPF, DKIM, DMARC to block spoofed senders [CybeReady](https://cybeready.com/phishing-awareness-training/phishing-prevention-best-practices?utm_source=chatgpt.com).
-   1. Use web-filtering/proxy to detect and block known phishing domains [NCSC](https://www.ncsc.gov.uk/guidance/phishing?utm_source=chatgpt.com).
-   1. Multi-Factor Authentication (MFA) on all critical accounts to mitigate credential theft [NCSC](https://www.ncsc.gov.uk/guidance/phishing?utm_source=chatgpt.com).
 1. **Incident Response**
    1. Establish clear reporting channels for suspected phishing (e.g., “Report Phish” button).
    1. Conduct follow-up training for any user who clicks or submits credentials
