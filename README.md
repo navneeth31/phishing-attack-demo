@@ -87,3 +87,6 @@ Bash ./zphisher.sh
    1. Establish clear reporting channels for suspected phishing (e.g., “Report Phish” button).
    1. Conduct follow-up training for any user who clicks or submits credentials
 
+-----
+**Demo Video**
+
