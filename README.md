@@ -21,6 +21,11 @@ ZPhishier is an educational phishing-simulation project built with ZPhisher on K
 **Important:** This tool is strictly for educational and awareness purposes. Unauthorized phishing—against real users or networks—is illegal and unethical. Always obtain explicit permission before any penetration testing or phishing simulations [IRJMETS](https://www.irjmets.com/uploadedfiles/paper/issue_12_december_2024/65449/final/fin_irjmets1734768076.pdf?utm_source=chatgpt.com)[GitHub](https://github.com/htr-tech/zphisher?utm_source=chatgpt.com).
 
 -----
+**Demo Video**
+
+https://github.com/user-attachments/assets/7b804e7e-9830-44f3-9ede-d5ff5526c83f
+
+-----
 **Attack Overview**
 
 **-Phishing Type**
@@ -86,8 +91,3 @@ Bash ./zphisher.sh
 1. **Incident Response**
    1. Establish clear reporting channels for suspected phishing (e.g., “Report Phish” button).
    1. Conduct follow-up training for any user who clicks or submits credentials
-
------
-**Demo Video**
-
-https://github.com/user-attachments/assets/7b804e7e-9830-44f3-9ede-d5ff5526c83f
