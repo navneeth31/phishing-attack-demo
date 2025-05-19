@@ -58,6 +58,7 @@ General public (demonstration only on the attacker’s own machine).
 Bash ./zphisher.sh
 
 <img width="833" alt="Image" src="https://github.com/user-attachments/assets/9b5484c2-ad3d-4b9b-a77e-08065cebb730" />
+<img width="835" alt="Image" src="https://github.com/user-attachments/assets/ed8fdd41-4cfc-4d1b-8e6c-2818d66bb11c" />
 
 1. Choose the social-media template.
 1. Select “Localhost” or “Serveo/Ngrok” (for local demos, localhost is sufficient). 
