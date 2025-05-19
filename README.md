@@ -79,6 +79,7 @@ Bash ./zphisher.sh
       
 1. **Credential Capture**
    1. ZPhisher logs credentials in the terminal and saves them to logs/ directory.
+   <img width="831" alt="Image" src="https://github.com/user-attachments/assets/4e415c9c-8993-411f-883e-95add221d1bf" />
 -----
 **Results & Analysis**
 
