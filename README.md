@@ -21,11 +21,6 @@ ZPhishier is an educational phishing-simulation project built with ZPhisher on K
 **Important:** This tool is strictly for educational and awareness purposes. Unauthorized phishing—against real users or networks—is illegal and unethical. Always obtain explicit permission before any penetration testing or phishing simulations [IRJMETS](https://www.irjmets.com/uploadedfiles/paper/issue_12_december_2024/65449/final/fin_irjmets1734768076.pdf?utm_source=chatgpt.com)[GitHub](https://github.com/htr-tech/zphisher?utm_source=chatgpt.com).
 
 -----
-**Demo Video**
-
-https://github.com/user-attachments/assets/7b804e7e-9830-44f3-9ede-d5ff5526c83f
-
------
 **Attack Overview**
 
 **-Phishing Type**
@@ -79,7 +74,7 @@ Bash ./zphisher.sh
       
 1. **Credential Capture**
    1. ZPhisher logs credentials in the terminal and saves them to logs/ directory.
-   <img width="831" alt="Image" src="https://github.com/user-attachments/assets/4e415c9c-8993-411f-883e-95add221d1bf" />
+<img width="831" alt="Image" src="https://github.com/user-attachments/assets/4e415c9c-8993-411f-883e-95add221d1bf" />
 -----
 **Results & Analysis**
 
