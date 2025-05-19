@@ -74,6 +74,9 @@ Bash ./zphisher.sh
 1. **Simulate User Interaction**
    1. Open the link in a browser tab.
    1. Enter any credentials (email/username + password).
+
+  <img width="836" alt="Image" src="https://github.com/user-attachments/assets/586e7e49-c8aa-4af0-b62f-3275b741bfc4" />
+      
 1. **Credential Capture**
    1. ZPhisher logs credentials in the terminal and saves them to logs/ directory.
 -----
