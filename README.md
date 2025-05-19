@@ -51,17 +51,18 @@ General public (demonstration only on the attacker’s own machine).
 
 1. **VM Preparation**
    1. Spin up a Kali Linux VM (VirtualBox/VMware).
-   1. Ensure Internet access within VM for installing dependencies.
-1. **Install ZPhisher**
-1. **Launch ZPhisher**
+   2. Ensure Internet access within VM for installing dependencies.
+2. **Install ZPhisher**
+3. **Launch ZPhisher**
 
 Bash ./zphisher.sh
 
 <img width="833" alt="Image" src="https://github.com/user-attachments/assets/9b5484c2-ad3d-4b9b-a77e-08065cebb730" />
 <img width="835" alt="Image" src="https://github.com/user-attachments/assets/ed8fdd41-4cfc-4d1b-8e6c-2818d66bb11c" />
 
-1. Choose the social-media template.
-1. Select “Localhost” or “Serveo/Ngrok” (for local demos, localhost is sufficient). 
+4. Choose the social-media template.
+<img width="836" alt="Image" src="https://github.com/user-attachments/assets/b1b21703-86ef-413b-81eb-2010b60b857f" />
+5. Select “Localhost” or “Serveo/Ngrok” (for local demos, localhost is sufficient). 
 -----
 **Execution Steps**
 
