@@ -58,7 +58,7 @@ Bash ./zphisher.sh
 4. Choose the social-media template.
 <img width="836" alt="Image" src="https://github.com/user-attachments/assets/b1b21703-86ef-413b-81eb-2010b60b857f" />
 
-5. Select “Localhost” or “Serveo/Ngrok” (for local demos, localhost is sufficient).
+5. Select “Localhost” or “Cloudflared/Ngrok” (for local demos, localhost is sufficient).
 
 <img width="833" alt="Image" src="https://github.com/user-attachments/assets/f1ed0090-3e88-43e4-9d46-e5f369f060d8" />
 -----
