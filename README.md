@@ -51,7 +51,7 @@ General public (demonstration only on the attacker’s own machine).
 3. **Launch ZPhisher**
 ```Bash
 cd zphisher
-Bash ./zphisher.sh
+bash ./zphisher.sh
 ```
 
 <img width="833" alt="Image" src="https://github.com/user-attachments/assets/9b5484c2-ad3d-4b9b-a77e-08065cebb730" />
