@@ -49,7 +49,6 @@ General public (demonstration only on the attacker’s own machine).
    2. Ensure Internet access within VM for installing dependencies.
 2. **Install ZPhisher**
 3. **Launch ZPhisher**
-4. 
 ```Bash
 cd zphisher
 Bash ./zphisher.sh
